@@ -1,7 +1,7 @@
 Privacy Policy  
 ==============
 
-Last updated: May 16, 2025
+Last updated: May 18, 2025
 
 This Privacy Policy describes Our policies and procedures on the collection,
 use and disclosure of Your information when You use the Service and tells You
@@ -107,6 +107,24 @@ We may use Personal Data for the following purposes:
   * To manage Your requests: To attend and manage Your requests to Us.
 
 
+Sharing of Your Personal Data
+~~~~~~~~~~~~~~~~~~~~~~~~~
+To ensure the proper functioning of the application, certain personal data may be shared with trusted third-party services
+strictly for technical and functional purposes.
+
+The types of data that may be shared include:
+
+*Your geographic location (if you have provided consent)
+
+*User identifiers 
+
+This data may be shared with:
+
+Google Firebase, used for authentication and real-time database storage.
+
+Geolocation services integrated through React Native libraries, enabling features that rely on your location.
+
+We are committed to not sharing any personal data for commercial or advertising purposes. Your information is never sold to third parties.
 
 Retention of Your Personal Data  
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
